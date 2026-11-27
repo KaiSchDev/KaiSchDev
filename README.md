@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is Kai and I'm an ongoing Developer, from Germany.</h2>
+<h2 data-importer="text" align="left">Hi 👋! - I'm Kai, a developer from Germany with a passion for technology and coding.</h2>
 
 ###
 
